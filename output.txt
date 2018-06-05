@@ -1,7 +1,7 @@
 Enter the URL you want to scrape: https://www.google.com
 ISO-8859-1
 200
-0:00:01.052280
+0:00:01.000134
 https://www.google.com/
 []
 text/html; charset=ISO-8859-1
